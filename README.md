@@ -1,4 +1,3 @@
-<img width="382" height="902" alt="Image" src="https://github.com/user-attachments/assets/2cc475ad-ef11-4263-81d8-bd83944e228c" />
 
 # 🛡️ Teams Chat Content Moderation Service – CST8917 Lab 3
 
@@ -128,9 +127,6 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
 ```
 ├── README.md
-├── logic-app-definition.json
-├── azure-function/
-│   └── preprocess_message.py
 ├── images/
 │   └── teams_moderation_flowchart.png
 ```
@@ -141,5 +137,5 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
 - **Course**: CST8917
 - **Lab**: Lab 3 – Teams Chat Moderation
-- **Student**: [Your Full Name]
-- **Date**: July 21, 2025
+- **Student**: Vaibhav Mishra
+- **Date**: July 20, 2025
