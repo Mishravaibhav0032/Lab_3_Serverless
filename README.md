@@ -119,7 +119,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
 
 ## 📹 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/YouTube-Click%20Here-red)](https://youtube.com/your-demo-link)
+https://drive.google.com/file/d/1XWBC1QS6oOCqSXZZ_AzUdUAWcxwjVzl8/view?usp=sharing
 
 ---
 
